@@ -1,8 +1,8 @@
 # defenderBeta
 windows defender beta
 
-install requirements:
+#install requirements
 npm install --save
 
-to run:
+#to run
 node index.js
